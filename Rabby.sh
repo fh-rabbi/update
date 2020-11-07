@@ -1,0 +1,3 @@
+clear
+cd $HOME
+ls
